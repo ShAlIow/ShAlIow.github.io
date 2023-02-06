@@ -4,44 +4,6 @@
   
   
   <entry>
-    <title>test2</title>
-    <link href="/2023/02/07/test2/"/>
-    <url>/2023/02/07/test2/</url>
-    
-    <content type="html"><![CDATA[<p>加油！</p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>text</title>
-    <link href="/2023/01/11/text/"/>
-    <url>/2023/01/11/text/</url>
-    
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p><img src="/2023/01/11/text/test.png" class="" title="图片引用方法一"><p><img src="/test.png" alt="图片引用方法二"></p><p><img src="/images/test.png" alt="图片引用方法三"></p>]]></content>
-    
-    
-    <categories>
-      
-      <category>Java</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>原创</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Hello World</title>
     <link href="/2023/01/11/hello-world/"/>
     <url>/2023/01/11/hello-world/</url>
